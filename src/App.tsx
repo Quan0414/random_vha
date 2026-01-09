@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import { useState, useRef } from 'react';
 import { DATABASE, CategoryData } from './data/options';
 import confetti from 'canvas-confetti';
 import { Heart, Sparkles, Wand2 } from 'lucide-react';
